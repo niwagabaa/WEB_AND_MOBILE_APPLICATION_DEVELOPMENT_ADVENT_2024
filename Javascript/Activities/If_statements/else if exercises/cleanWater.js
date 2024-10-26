@@ -1,4 +1,5 @@
 //A js program that checks if the village has enough clean water for residents
+//we are using an else if statement
 
 let waterAvailable = 700;
 

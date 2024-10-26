@@ -1,5 +1,7 @@
 //Exersice 2: Javascript program that checks if a person is eligible for admission in a school
 
+//we are using an else if statement
+
 let score = 55;
 
 if (score >= 70) {

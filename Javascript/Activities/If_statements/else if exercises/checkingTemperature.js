@@ -1,4 +1,5 @@
 //Exersice 1: Checking Temperature from Javascript Lab_IF Statements
+//we are using an else if statement
 
 let temperature = -54;
 if (temperature > 30) {
