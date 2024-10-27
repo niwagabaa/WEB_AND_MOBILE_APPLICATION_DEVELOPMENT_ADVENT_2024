@@ -27,3 +27,22 @@ if (condition1) {
     // Code if neither condition1 nor condition2 is true
     }
     
+//* Nested ifs
+
+//LOOPS
+//For loops repeats a block of code for a specific number of times . Ideal when you know how many times
+//you want to run the loop 
+
+// for (initialization; condition; update) {
+//     code to execute in each iteration
+// }
+
+// intialization: usually a variable is initialized to a starting value
+// condition: loop runs as long as condition is true
+// update: changes the variable in the intialization after each iteration
+
+// A for loop that prints numbers from 1 to 5
+for (let x = 1; x <= 5; x++) {
+    console.log(x);
+    
+}
