@@ -1,3 +1,5 @@
+//DATA TYPES
+
 // Variables are containers for storing values
 // All javascript variables must be identified with unique names i.e identifiers
 // Assignemnt operator "=" . Equal to operator "=="
@@ -45,4 +47,18 @@ if (condition1) {
 for (let x = 1; x <= 5; x++) {
     console.log(x);
     
+}
+
+//A while loop repeats a block of code as long as the specified condition is true. 
+//Works best when the number of interation is unknown or working with dynamic input
+
+// while (condition) {
+//     execute the code as long as its true
+// }
+
+// A while loop that prints numbers from 1-5
+y = 1;
+while (y <= 5 ) {
+  console.log(y);
+    y++;
 }
